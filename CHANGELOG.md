@@ -1,5 +1,21 @@
 # Changelog
 
+## [1.3.0](https://www.github.com/14790897/auto-read-liunxdo/compare/v1.2.1...v1.3.0) (2024-07-21)
+
+
+### Features
+
+* bypasscf可以绕过cf了 ([197e04f](https://www.github.com/14790897/auto-read-liunxdo/commit/197e04f1b67164ccabdb8e8347039c2ceb51d8e7))
+
+
+### Bug Fixes
+
+* action大小写问题 ([aeeb918](https://www.github.com/14790897/auto-read-liunxdo/commit/aeeb918fe199003b66279aa1e182496ed4b4d683))
+* auto加双引号 ([b38c22e](https://www.github.com/14790897/auto-read-liunxdo/commit/b38c22ee52165cecdae63c296434f564af7f95f0))
+* docker compose环境变量配置 ([b67d946](https://www.github.com/14790897/auto-read-liunxdo/commit/b67d94633920a9c8f2c5eaf6a8a08590d443cf7c))
+* docker compose环境变量配置 ([a7f19bb](https://www.github.com/14790897/auto-read-liunxdo/commit/a7f19bbd3d139e5ede1402127fed13ce5bfea9f1))
+* Windows有头，Linux无头 ([5a39ded](https://www.github.com/14790897/auto-read-liunxdo/commit/5a39ded0ca6afc3790d891d70928cc7a863c5e01))
+
 ### [1.2.1](https://www.github.com/14790897/auto-read-liunxdo/compare/v1.2.0...v1.2.1) (2024-05-20)
 
 
